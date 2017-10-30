@@ -1,0 +1,9 @@
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\bin\Debug\Recomender_System.exe.config
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\bin\Debug\Recomender_System.exe
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\bin\Debug\Recomender_System.pdb
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\obj\Debug\Recomender_System.csprojResolveAssemblyReference.cache
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\obj\Debug\Recomender_System.Form1.resources
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\obj\Debug\Recomender_System.Properties.Resources.resources
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\obj\Debug\Recomender_System.csproj.GenerateResource.Cache
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\obj\Debug\Recomender_System.exe
+C:\Users\İdrisKA\Documents\Visual Studio 2015\Projects\Recomender_System\Recomender_System\obj\Debug\Recomender_System.pdb
